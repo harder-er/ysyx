@@ -14,7 +14,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0hew1h32NgjKiUcCgwiC-5" value="Mem" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="250" width="126" height="200" as="geometry" />
+          <mxGeometry x="510" y="250" width="96" height="200" as="geometry" />
         </mxCell>
         <mxCell id="0hew1h32NgjKiUcCgwiC-6" value="Arbiter" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="310" width="60" height="60" as="geometry" />
