@@ -130,10 +130,10 @@
         <mxCell id="-_rxrSTBlriCxvDMtsWQ-51" value="&lt;font size=&quot;3&quot;&gt;AXI-arbiter&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="370" y="615" width="217" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-_rxrSTBlriCxvDMtsWQ-53" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+        <mxCell id="-_rxrSTBlriCxvDMtsWQ-53" value="Mem" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="392" y="741" width="173" height="173" as="geometry" />
         </mxCell>
-        <mxCell id="-_rxrSTBlriCxvDMtsWQ-56" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+        <mxCell id="-_rxrSTBlriCxvDMtsWQ-56" value="AXI4-Lite" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="217" y="694" width="512" height="35" as="geometry" />
         </mxCell>
       </root>
